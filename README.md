@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nandini-556/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Nandini-556/leetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Nandini-556/leetCode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Nandini-556/leetCode/tree/master/0932-beautiful-array) |
 | [1046-last-stone-weight](https://github.com/Nandini-556/leetCode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Nandini-556/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Nandini-556/leetCode/tree/master/1288-remove-covered-intervals) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandini-556/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Nandini-556/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Nandini-556/leetCode/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/Nandini-556/leetCode/tree/master/0932-beautiful-array) |
 | [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nandini-556/leetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Nandini-556/leetCode/tree/master/1512-number-of-good-pairs) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Nandini-556/leetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Nandini-556/leetCode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Nandini-556/leetCode/tree/master/0932-beautiful-array) |
 ## Enumeration
 |  |
 | ------- |
