@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Nandini-556/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Nandini-556/leetCode/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/Nandini-556/leetCode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandini-556/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Nandini-556/leetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Nandini-556/leetCode/tree/master/0645-set-mismatch) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Nandini-556/leetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Nandini-556/leetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nandini-556/leetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/Nandini-556/leetCode/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Nandini-556/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Nandini-556/leetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nandini-556/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Nandini-556/leetCode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Nandini-556/leetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Nandini-556/leetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Nandini-556/leetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Nandini-556/leetCode/tree/master/0932-beautiful-array) |
 ## Enumeration
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nandini-556/leetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Nandini-556/leetCode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Nandini-556/leetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Nandini-556/leetCode/tree/master/0912-sort-an-array) |
 ## Interactive
 |  |
@@ -482,4 +486,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandini-556/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nandini-556/leetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nandini-556/leetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nandini-556/leetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nandini-556/leetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
