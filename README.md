@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nandini-556/leetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Nandini-556/leetCode/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Nandini-556/leetCode/tree/master/1563-stone-game-v) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nandini-556/leetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Nandini-556/leetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Nandini-556/leetCode/tree/master/1929-concatenation-of-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nandini-556/leetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Nandini-556/leetCode/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Nandini-556/leetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Nandini-556/leetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandini-556/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nandini-556/leetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Nandini-556/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nandini-556/leetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Nandini-556/leetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nandini-556/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/Nandini-556/leetCode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nandini-556/leetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nandini-556/leetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Nandini-556/leetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Nandini-556/leetCode/tree/master/2029-stone-game-ix) |
 ## Queue
 |  |
